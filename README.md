@@ -1,1 +1,3 @@
 # Waitforit
+Hello Peeps,
+Learning to code quickly and swiftly like a sword through jello going from HTML5, CSS, and onwards...
